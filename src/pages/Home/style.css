@@ -1,0 +1,14 @@
+* {
+    background-color: rgb(55, 52, 52);
+}
+
+h1 {
+    color: #fff;
+    font-size: 3rem;
+    padding-bottom: 1rem;
+}
+
+ul li {
+    font-size: 2rem;
+    color: #fff;
+}
